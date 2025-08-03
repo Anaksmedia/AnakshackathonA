@@ -23,7 +23,7 @@ I’m Saib Chibole Anakala, a medical student (MBChB with IT) at Maseno Universi
 📬 Contact
 📧 [Email Me](mailto:anakalasaib@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/saib-anakala-4105242a6)
-📄 Download SaibCV: SaibCV..pdf
+📄 Download SaibCV.: SaibCV..pdf
 📃 License
 This project is open-source and free to use under the MIT License.
 
